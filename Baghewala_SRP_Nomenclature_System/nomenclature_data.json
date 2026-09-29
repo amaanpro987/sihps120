@@ -1,0 +1,40 @@
+[
+  {
+    "name": "C-320D-246-86",
+    "category": "OIL Baghewala SRP surface unit",
+    "source_type": "OIL",
+    "source_reference": "OIL Tender SJI6697P22",
+    "parameters": {
+      "model": "C-320D-246-86",
+      "reducer_rating_in_lb": 320000,
+      "structural_capacity_lb": 24600,
+      "max_stroke_in": 86,
+      "stroke_lengths_in": [
+        86,
+        74,
+        61
+      ],
+      "polish_rod_capacity_lb": 24600,
+      "well_lifting_capacity_bpd": "60-120",
+      "balance": "Beam Balance",
+      "product": "Standard Rocking Horse"
+    }
+  },
+  {
+    "name": "BGW#4",
+    "category": "Baghewala well",
+    "source_type": "OIL",
+    "source_reference": "OIL Tender CJI5659P15",
+    "parameters": {
+      "td_m": 1150.0,
+      "pump_barrel_depth_m": 1017.0,
+      "tubing": "2-7/8 in EUE N-80",
+      "plunger_rod": "2.25 in x 1",
+      "sinker_bars": "1.5 in x 10",
+      "sucker_rods_7_8_in": 85,
+      "sucker_rods_1_in": 44,
+      "pony_rods_1_5_in": 2,
+      "polish_rod_1_5_in": 1
+    }
+  }
+]
